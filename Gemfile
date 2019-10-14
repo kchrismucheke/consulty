@@ -14,7 +14,7 @@ gem 'jbuilder', '~> 2.5'
 gem 'bootsnap', '>= 1.1.0', require: false
 gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw, :jruby]
 gem 'devise', '~> 4.7'
-gem 'friendly_id', '~> 5.2', '>= 5.2.4'
+gem 'friendly_id', '~> 5.3'
 gem 'foreman', '~> 0.86.0'
 gem 'sidekiq', '~> 6.0'
 gem 'tailwindcss', '~> 0.2.0'
