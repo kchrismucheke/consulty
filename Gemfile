@@ -17,7 +17,7 @@ gem 'devise', '~> 4.7'
 gem 'friendly_id', '~> 5.3'
 gem 'foreman', '~> 0.86.0'
 gem 'sidekiq', '~> 6.0'
-gem 'tailwindcss', '~> 1.0.2'
+gem 'tailwindcss', '~> 1.0.3'
 gem 'webpacker', '~> 4.0', '>= 4.0.7'
 gem 'redis'
 
