@@ -18,7 +18,7 @@ gem 'friendly_id', '~> 5.3'
 gem 'foreman', '~> 0.86.0'
 gem 'sidekiq', '~> 6.0'
 gem 'tailwindcss', '~> 1.0.2'
-gem 'webpacker', '~> 5.0'
+gem 'webpacker', '~> 5.4'
 gem 'redis'
 
 #Project Specific
